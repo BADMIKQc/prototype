@@ -15,6 +15,8 @@ J'ai créé un modèle 3D avec une bonne géométrie avec une face implémenté 
 
 Le résultat était bien précis pour la séparation de couleurs et très résistant.
 
+![alt text](prototype.png)
+
 ## Conclusion
 
 J'ai réussi de faire mon idée de départ pour avoir un modèle imprimé grâce à mon modèle 3D et avoir une bonne séparation des couleurs pour avoir une précision lors du scanne.
