@@ -15,7 +15,7 @@ J'ai créé un modèle 3D avec une bonne géométrie avec une face implémenté 
 
 Le résultat était bien précis pour la séparation de couleurs et très résistant.
 
-![alt text](prototype.png)
+![alt text](img/prototype.png)
 
 ## Conclusion
 
